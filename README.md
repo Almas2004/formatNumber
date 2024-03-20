@@ -1,2 +1,2 @@
 #Format Numder
-{https://pages.github.com/}
+{https://almas2004.github.io/formatNumber/}
